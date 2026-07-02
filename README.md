@@ -11,8 +11,7 @@
 
 ## 🔗 Sobre o Projeto Fournos
 Este artigo utiliza como base de estudo o ecossistema do **Fournos**, um sistema web de gerenciamento de pedidos para panificadoras desenvolvido como Projeto Integrador. 
-* 💻 **Repositório da Aplicação:** [Insira o link do GitHub aqui]
-* 🌐 **Sistema em Produção:** [Insira o link do site aqui, se aplicável]
+* 💻 **Repositório da Aplicação:** [Fournos](https://github.com/RafaKammler/fournos-sistema-de-pedidos-pi5)
 
 ---
 
