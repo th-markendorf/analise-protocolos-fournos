@@ -1,8 +1,10 @@
 # Análise da Pilha de Protocolos HTTP e TCP: Um Estudo de Tráfego de Rede Aplicado ao Sistema Fournos
 
 **Autores:** Thiago Henrique Markendorf, Rafael Gustavo Kammler, Henrique Vieira  
-**Instituição:** Departamento de Engenharias e Ciência da Computação - Universidade Regional Integrada do Alto Uruguai e das Missões (URI) - Erechim, RS
+**Instituição:** Universidade Regional Integrada do Alto Uruguai e das Missões (URI) - Departamento de Engenharias e Ciência da Computação - Erechim, RS
 
+> 💻 **[Clique aqui para ser redirecionado ao repositório completo do artigo](https://github.com/th-markendorf/analise-protocolos-fournos)**
+> 
 > 📄 **[Clique aqui para visualizar o Artigo Completo em PDF (Formatação Acadêmica)](./Análise_da_Pilha_de_Protocolos_HTTP_e_TCP__Um_Estudo_de_Tráfego_de_Rede_Aplicado_ao_Sistema_Fournos.pdf)**
 >
 > 🛠️ *Os arquivos fonte em LaTeX (.tex) estão disponíveis neste repositório.*
